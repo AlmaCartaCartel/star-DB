@@ -1,0 +1,10 @@
+.navbar{
+    border-radius: 5px;
+}
+.navbar-brand{
+    cursor: pointer;
+}
+.navbar a{
+    margin-left: 25px;
+    text-decoration: none;
+}

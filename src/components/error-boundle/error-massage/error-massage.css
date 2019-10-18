@@ -1,0 +1,7 @@
+.error h2, .error p, .error{
+    text-align: center;
+}
+
+.error img{
+    width: 100px;
+}
